@@ -16,7 +16,10 @@ In this project, I've implemented a linkedin post simulator that generates reali
 - database.py- SQLite database for persistence 
 - pyproject.toml- dependence mgmt 
 - analysis.ipynb- jupyter nb for analysis
-- dockerfile - for dockerization 
+- dockerfile - for dockerization
+
+  ![Untitled diagram-2024-11-09-184406](https://github.com/user-attachments/assets/459fc56a-5aa0-438b-bcc5-b3b97a5a3261)
+
 
 ## Generated data structure 
 
