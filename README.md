@@ -80,13 +80,13 @@ docker run linkedin-simulator
    
 ![output](https://github.com/user-attachments/assets/b9f9da96-5d55-4257-b1f2-ee428d0615d9)
 
-4. **Distribution of Post Length and Mean**
-5. **Distribution of Word Counts and Mean**
+3. **Distribution of Post Length and Mean**
+4. **Distribution of Word Counts and Mean**
    
 ![output](https://github.com/user-attachments/assets/6c75ac42-320e-4008-8e82-2b9de7ee256b)
 
-6. **Distribution of media types** 
-7. **Average likes by media type**
+5. **Distribution of media types** 
+6. **Average likes by media type**
    
 ![output](https://github.com/user-attachments/assets/ce7d126c-d128-4347-bc55-d4acf0a2b35b)
 
